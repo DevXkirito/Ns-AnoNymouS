@@ -6,11 +6,11 @@
 
 ## ABOUT
 <p align="center">
-<a href=https://telegram.dog/Ns_AnoNymouS ><img alt="404" width=150 src=./images/404.gif></a><br>
+<a href=https://telegram.dog/Ns_AnoNymouS ><img alt="dev" width=150 src=./images/developer.png></a><br>
 <b>Name:</b> Naveen Kumar<br>
 <b>Studing at:</b> IIIT Sri City<br>
 <b>Course:</b> CSE (Computer Science and Engineering)<br>
-<b>Year:</b> 1<sup>st</sup> year<br>
+<b>Batch:</b> 2022-2026<br>
 </p>
 
 ## Skills :man_technologist:
