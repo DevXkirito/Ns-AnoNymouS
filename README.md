@@ -38,7 +38,7 @@
 | Language | Status |
 | :----: | :---: |
 | python | &check; Good idea |
-| C Programming | &check; Started Learning |
+| C Programming | &check; Good idea |
 | HTML & CSS | &check; basic idea |
 | Node js| &check; very basic idea |
 | Java | &cross; No idea |
